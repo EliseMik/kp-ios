@@ -1,5 +1,8 @@
 # QuizApp — мобильное приложение для тестирования знаний
 
+## Демонстрация
+[Видео](https://drive.google.com/drive/u/0/folders/1noCWc_jpRmGczuM8k-fGdb08VXFZSNXa)
+
 ## Навигация
 
 * [Описание проекта](#описание-проекта)
